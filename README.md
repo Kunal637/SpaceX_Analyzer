@@ -59,4 +59,5 @@ Interactive launch site map
 
 Real-time success predictions with probability scores
 
-Live demo coming soon!
+https://spacexanalyzer-exzzvs4clx9fduc2yfpfyi.streamlit.app/
+
