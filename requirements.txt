@@ -1,6 +1,9 @@
-streamlit
-pandas
-matplotlib
-numpy
-seaborn
-scikit-learn
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.23.0
+requests>=2.28.0
+seaborn>=0.12.0
+matplotlib>=3.6.0
+folium>=0.14.0
+streamlit-folium>=0.11.0
+scikit-learn>=1.2.0
